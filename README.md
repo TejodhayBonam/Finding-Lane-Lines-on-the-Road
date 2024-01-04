@@ -1,4 +1,4 @@
-# **Finding Lane Lines on the Road** 
+# **Detecting Lane lines on the road in images using Python and OpenCV** 
 
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
